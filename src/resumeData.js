@@ -1,14 +1,14 @@
 let resumeData = {
-    "imagebaseurl":"https://rbhatia46.github.io/", //"https://github.com/NataliaSozontova"
+    "imagebaseurl":"https://github.com/NataliaSozontova",
     "name": "Natalia Sozontova",
     "role": "Software Developer Engineer in Test, Front End Developer, Back End Developer",
-    "linkedinId":"Your linkedinId",
-    // "skypeid": "Your skypeid",
-    "roleDescription": "I am currently working as an SDET,and I am writing the automation test scripts for various Web applications. I also completed full stack development bootcamp and like to develop different applications.",
+    "linkedinId":"Natalia Sozontova",
+    "skypeid": "Your skypeid",
+    "roleDescription": "I am Software Developer Engineer in Test. I am currently a student in full-stack development bootcamp at George Washington University",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
+          "url":"https://www.linkedin.com/in/natalia-sozontova-2000b91b8/",
           "className":"fa fa-linkedin"
         },
         {

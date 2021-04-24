@@ -23,7 +23,21 @@ export default class Porfolio extends Component {
                       </div>
                     </a>
                   </div>
+                  <div className="card-footer text-center">
+                        <ul>
+                          <li>
+                            <a href={item.deployedUrl} target="_blank" rel="noreferrer noopener"
+                              className="btn">    <i class="text-left fa fa-external-link" aria-hidden="true">App </i></a>
+                            <a href={item.githubUrl} target="_blank" rel="noreferrer noopener"
+                              className="btn"> <i class="fa fa-github" aria-hidden="true">Code</i></a>
+                          </li>
+                          <li>
+
+                          </li>
+                        </ul>
+                      </div>
                 </div>
+                
               )
             })
           }

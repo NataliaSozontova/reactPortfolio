@@ -1,10 +1,10 @@
 let resumeData = {
     "imagebaseurl":"https://github.com/NataliaSozontova",
     "name": "Natalia Sozontova",
-    "role": "Software Developer Engineer in Test, Front End Developer, Back End Developer",
+    "role": "Software Developer Engineer in Test",
     "linkedinId":"Natalia Sozontova",
     "skypeid": "Your skypeid",
-    "roleDescription": "I am Software Developer Engineer in Test. I am currently a student in full-stack development bootcamp at George Washington University",
+    "roleDescription": " I am currently a student in full-stack development bootcamp at George Washington University",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -15,46 +15,41 @@ let resumeData = {
           "name":"github",
           "url":"https://github.com/NataliaSozontova",
           "className":"fa fa-github"
-        },
-        // {
-        //   "name":"skype",
-        //   "url":"http://twitter.com/rbhatia46",
-        //   "className":"fa fa-twitter"
-        // }
+        }
       ],
-    "aboutme":"I am currently working as an SDET,and I am writing the automation test scripts for various Web applications. I also completed full stack development bootcamp and like to develop different applications.",
+    "aboutme":"I am Software Development Engineer in Test. I am writing automation test script in Java to test front and back end of web applications. I have expirience with Rest Assured API, Camunda, Selenium Webdriver, Cucumber, JUnit, TestNG, Jenkins, DynamoDB, PostgresSQL, MongoDB.",
     "address":"Virginia, USA",
     "website":"https://github.com/NataliaSozontova",
     "education":[
       {
-        "UniversityName":"Baltic Federal University named after Imannuel Kant",
-        "specialization":"MS? Telecommunications",
+        "UniversityName":"Immanuel Kant Baltic Federal University",
+        "specialization":"Master of Science, Telecommunications Engineering Technology",
         "MonthOfPassing":"June",
         "YearOfPassing":"2012",
-        "Achievements":"???Some Achievements"
+        "Achievements":""
       },
       {
-        "UniversityName":"Baltic Federal University named after Imannuel Kant",
-        "specialization":"BH",
+        "UniversityName":"Immanuel Kant Baltic Federal University",
+        "specialization":"Bachelor of Science, Telecommunications Engineering Technology",
         "MonthOfPassing":"June",
         "YearOfPassing":"2010",
-        "Achievements":"??Some Achievements"
+        "Achievements":""
+      },
+      {
+        "UniversityName":"Northern Virginia Community College",
+        "specialization":"Network Engineering (Specialist), Career Studies Certificate",
+        "MonthOfPassing":"May",
+        "YearOfPassing":"2017",
+        "Achievements":""
       }
     ],
     "work":[
       {
         "CompanyName":"OneGlobe LLC",
         "specialization":"Software Developer Engineer in Test",
-        "MonthOfLeaving":"December",
+        "MonthOfLeaving":"Present",
         "YearOfLeaving":"2019",
-        "Achievements":"??Some Achievements"
-      },
-      {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "Achievements":""
       }
     ],
     "skillsDescription":"Your skills here",
@@ -85,31 +80,34 @@ let resumeData = {
       },
       {
         "skillname":"PostgresSQL"
-      },
-      {
-        "skillname":"??Sequilise"
       }
     ],
     "portfolio":[
       {
-        "name":"project1",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"Weather Dashboard",
+        "description":"Weather App",
+        "imgurl":"/images/portfolio/weatherApp.png",
+        "githubUrl": "https://github.com/NataliaSozontova/homework6Weather",
+        "deployedUrl": "https://nataliasozontova.github.io/homework6Weather/"
       },
       {
-        "name":"project2",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
+        "name":"Burger",
+        "description":"Burger App",
+        "imgurl":"images/portfolio/burgerApp.png",
+        "githubUrl": "https://github.com/NataliaSozontova/burger",
+        "deployedUrl": "https://nataliasozontova.github.io/homework6Weather/"
       },
       {
-        "name":"project3",
-        "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png"
+        "name":"Fitness Tracker",
+        "description":"Fitness App",  
+        "imgurl":"../images/portfolio/fintessApp.png",
+        "githubUrl": "https://github.com/NataliaSozontova/workoutTracker",
+        "deployedUrl": "https://still-ridge-64273.herokuapp.com/"
       },
       {
         "name":"project4",
         "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "imgurl":"../images/portfolio/phone.jpg"
       }
     ],
     "testimonials":[

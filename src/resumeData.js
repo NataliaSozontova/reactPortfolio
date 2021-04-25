@@ -22,7 +22,7 @@ let resumeData = {
           "className":"fa fa-file"
         }
       ],
-    "aboutme":"I am Software Development Engineer in Test. I am writing automation test script in Java to test front and back end of web applications. I have expirience with Rest Assured API, Camunda, Selenium Webdriver, Cucumber, JUnit, TestNG, Jenkins, DynamoDB, PostgresSQL, MongoDB.",
+    "aboutme":"I am Software Development Engineer in Test. I am writing an automation test script in Java to test the front and back-end of web applications. I have experience with Rest Assured API, Camunda, Selenium Webdriver, Cucumber, JUnit, TestNG, Jenkins, DynamoDB, PostgresSQL, MongoDB.",
     "address":"Herndon, VA",
     "email":"nasozontova@gmail.com",
     "phone": "571-440-3526",

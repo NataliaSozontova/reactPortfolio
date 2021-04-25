@@ -145,7 +145,7 @@ body {
    background: #fff;
    font-family: 'opensans-regular', sans-serif;
    font-weight: normal;
-   font-size: 15px;
+   font-size: 20px;
    line-height: 30px;
 	color: #838C95;
 
@@ -167,7 +167,7 @@ h1 { font-size: 38px; line-height: 42px; margin-bottom: 12px; letter-spacing: -1
 h2 { font-size: 28px; line-height: 36px; margin-bottom: 6px; }
 h3 { font-size: 22px; line-height: 30px; margin-bottom: 12px; }
 h4 { font-size: 20px; line-height: 30px; margin-bottom: 6px; }
-h5 { font-size: 18px; line-height: 30px; }
+h5 { font-size: 24px; line-height: 30px; }
 h6 { font-size: 14px; line-height: 30px; }
 .subheader { }
 
@@ -687,7 +687,7 @@ input[type="checkbox"] { display: inline; }
 /* block grids
 --------------------------------------------------------------------- */
 .bgrid-sixths [class*="column"]   { width: 16.66667%; }
-.bgrid-quarters [class*="column"] { width: 25%; }
+.bgrid-quarters [class*="column"] { width: 50%; }
 .bgrid-thirds [class*="column"]   { width: 33.33333%; }
 .bgrid-halves [class*="column"]   { width: 50%; }
 

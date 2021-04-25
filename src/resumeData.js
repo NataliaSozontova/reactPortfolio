@@ -115,7 +115,7 @@ let resumeData = {
         "description":"Web App for travel in Dubai, can be adjust to any other destination",
         "imgurl":"/images/portfolio/travelGuide.png",
         "githubUrl": "https://github.com/NataliaSozontova/group_project",
-        "deployedUrl": "https://nataliasozontova.github.io/group_project/destination.html"
+        "deployedUrl": "https://nataliasozontova.github.io/group_project/"
       },
       {
         "name":"Selling App (Project 2)",

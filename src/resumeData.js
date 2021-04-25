@@ -2,7 +2,7 @@ let resumeData = {
     "imagebaseurl":"https://github.com/NataliaSozontova",
     "name": "Natalia Sozontova",
     "role": "Software Developer Engineer in Test",
-    "linkedinId":"Natalia Sozontova",
+    "linkedinId":" Natalia Sozontova",
     "skypeid": "Your skypeid",
     "roleDescription": " I am currently a student in full-stack development bootcamp at George Washington University",
     "socialLinks":[
@@ -15,11 +15,17 @@ let resumeData = {
           "name":"github",
           "url":"https://github.com/NataliaSozontova",
           "className":"fa fa-github"
+        },
+        {
+          "name":"resume",
+          "url":"/resume/NataliaSozontovaResume.pdf",
+          "className":"fa fa-file"
         }
       ],
     "aboutme":"I am Software Development Engineer in Test. I am writing automation test script in Java to test front and back end of web applications. I have expirience with Rest Assured API, Camunda, Selenium Webdriver, Cucumber, JUnit, TestNG, Jenkins, DynamoDB, PostgresSQL, MongoDB.",
-    "address":"Virginia, USA",
-    "website":"https://github.com/NataliaSozontova",
+    "address":"Herndon, VA",
+    "email":"nasozontova@gmail.com",
+    "phone": "571-440-3526",
     "education":[
       {
         "UniversityName":"Immanuel Kant Baltic Federal University",
@@ -85,38 +91,59 @@ let resumeData = {
     "portfolio":[
       {
         "name":"Weather Dashboard",
-        "description":"Weather App",
+        "description":"Web App allowing to check the weather by uding external weather api",
         "imgurl":"/images/portfolio/weatherApp.png",
         "githubUrl": "https://github.com/NataliaSozontova/homework6Weather",
         "deployedUrl": "https://nataliasozontova.github.io/homework6Weather/"
       },
       {
         "name":"Burger",
-        "description":"Burger App",
-        "imgurl":"images/portfolio/burgerApp.png",
+        "description":"Web App to add burgers to the list and move to another list",
+        "imgurl":"/images/portfolio/burgerApp.png",
         "githubUrl": "https://github.com/NataliaSozontova/burger",
-        "deployedUrl": "https://nataliasozontova.github.io/homework6Weather/"
+        "deployedUrl": "https://boiling-plains-38005.herokuapp.com/"
       },
       {
         "name":"Fitness Tracker",
-        "description":"Fitness App",  
-        "imgurl":"../images/portfolio/fintessApp.png",
+        "description":"Web App allowing to add and save your exercise progress",  
+        "imgurl":"/images/portfolio/fitnessApp.png",
         "githubUrl": "https://github.com/NataliaSozontova/workoutTracker",
         "deployedUrl": "https://still-ridge-64273.herokuapp.com/"
       },
       {
-        "name":"project4",
-        "description":"mobileapp",
-        "imgurl":"../images/portfolio/phone.jpg"
+        "name":"Travel Guide (Project 1)",
+        "description":"Web App for travel in Dubai, can be adjust to any other destination",
+        "imgurl":"/images/portfolio/travelGuide.png",
+        "githubUrl": "https://github.com/NataliaSozontova/group_project",
+        "deployedUrl": "https://nataliasozontova.github.io/group_project/destination.html"
+      },
+      {
+        "name":"Selling App (Project 2)",
+        "description":"Web App allowing seller to create account and post items and buyer to view items for sale",  
+        "imgurl":"/images/portfolio/sellApp.png",
+        "githubUrl": "https://github.com/NataliaSozontova/Team_Hulk_Group_Project_2",
+        "deployedUrl": "https://vast-reaches-08581.herokuapp.com/"
+      },
+      {
+        "name":"Employee Directory",
+        "description":"React Web application. Allowing user to view entire employee directory with their information, search and sort employees by name",  
+        "imgurl":"/images/portfolio/employeeDirectory.png",
+        "githubUrl": "https://github.com/NataliaSozontova/Employee-Directory",
+        "deployedUrl": "https://nataliasozontova.github.io/Employee-Directory/"
       }
+      
     ],
     "testimonials":[
       {
-        "description":"This is a sample testimonial",
+        "description":"First test",
         "name":"Some technical guy"
       },
       {
-        "description":"This is a sample testimonial",
+        "description":"SEcond test",
+        "name":"Some technical guy"
+      },
+      {
+        "description":"Third test",
         "name":"Some technical guy"
       }
     ]

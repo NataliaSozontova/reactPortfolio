@@ -185,7 +185,7 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #about {
-   background: #2B2B2B;
+   background:lightsalmon;
    padding-top: 96px;
    padding-bottom: 66px;
    overflow: hidden;
@@ -195,13 +195,13 @@ ul#nav li.current a { color: #F06000; }
 #about a:hover, #about a:focus { color: #11ABB0; }
 
 #about h2 {
-   font: 22px/30px 'opensans-bold', sans-serif;
+   font: 28px/30px 'opensans-bold', sans-serif;
    color: #fff;
    margin-bottom: 12px;
 }
 #about p {
-   line-height: 30px;
-   color: #7A7A7A;
+   /* line-height: 30px; */
+   color: black;
 }
 #about .profile-pic {
    position: relative;
@@ -221,7 +221,7 @@ ul#nav li.current a { color: #F06000; }
 }
 #about .download .button:hover {
    background: #fff;
-   color: #2B2B2B;
+   color: #2b2b2b;
 }
 #about .download .button i {
    margin-right: 15px;
@@ -234,7 +234,7 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #resume {
-   background: #fff;
+   background:#fff;
    padding-top: 90px;
    padding-bottom: 72px;
    overflow: hidden;
@@ -409,7 +409,7 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #portfolio {
-   background: #ebeeee;
+   background: lightsalmon;
    padding-top: 90px;
    padding-bottom: 60px;
 }
@@ -678,18 +678,18 @@ ul#nav li.current a { color: #F06000; }
    padding: 0;
    font-size: 24px;
    line-height: 48px;
-   color: #fff
+   color:red
 }
 #testimonials blockquote cite {
    display: block;
    font-size: 12px;
    font-style: normal;
    line-height: 18px;
-   color: #fff;
+   color: red;
 }
 #testimonials blockquote cite:before { content: "\2014 \0020"; }
 #testimonials blockquote cite a,
-#testimonials blockquote cite a:visited { color: #8B9798; border: none }
+#testimonials blockquote cite a:visited { color: blue; border: none }
 
 /* Flex Slider
 /* ------------------------------------------------------------------ */
@@ -735,7 +735,7 @@ ul#nav li.current a { color: #F06000; }
 /* Slider Styles */
 .slides { zoom: 1; }
 .slides > li {
-   /*margin-right: 5px; */
+   margin-right: 5px;
    overflow: hidden;
 }
 
@@ -781,7 +781,7 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #contact {
-   background: #191919;
+   background:lightblue;
    padding-top: 96px;
    padding-bottom: 102px;
    color: #636363;
@@ -792,7 +792,7 @@ ul#nav li.current a { color: #F06000; }
 #contact a:hover, #contact a:focus { color: #fff; }
 
 #contact h1 {
-   font: 18px/24px 'opensans-bold', sans-serif;
+   font: 24px/30px 'opensans-bold', sans-serif;
    text-transform: uppercase;
    letter-spacing: 3px;
    color: #EBEEEE;

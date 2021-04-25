@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+
 export default class About extends Component {
   render() {
     let resumeData = this.props.resumeData;
@@ -33,7 +34,9 @@ export default class About extends Component {
                      {resumeData.address}
                     </span>
                     <br></br>
-                    <span>{resumeData.website}</span>
+                    <span>{resumeData.email}</span>
+                    <br></br>
+       					<span>{resumeData.phone}</span>
        					   </p>
                   </div>
                </div>

@@ -92,21 +92,21 @@ let resumeData = {
       {
         "name":"Weather Dashboard",
         "description":"Web App allowing to check the weather by uding external weather api",
-        "imgurl":"./images/portfolio/weatherApp.png",
+        "imgurl":"./images/weatherApp.png",
         "githubUrl": "https://github.com/NataliaSozontova/homework6Weather",
         "deployedUrl": "https://nataliasozontova.github.io/homework6Weather/"
       },
       {
         "name":"Burger",
         "description":"Web App to add burgers to the list and move to another list",
-        "imgurl":"./images/portfolio/burgerApp.png",
+        "imgurl":"./images/burgerApp.png",
         "githubUrl": "https://github.com/NataliaSozontova/burger",
         "deployedUrl": "https://boiling-plains-38005.herokuapp.com/"
       },
       {
         "name":"Fitness Tracker",
         "description":"Web App allowing to add and save your exercise progress",  
-        "imgurl":"/images/portfolio/fitnessApp.png",
+        "imgurl":"/images/fitnessApp.png",
         "githubUrl": "https://github.com/NataliaSozontova/workoutTracker",
         "deployedUrl": "https://still-ridge-64273.herokuapp.com/"
       },

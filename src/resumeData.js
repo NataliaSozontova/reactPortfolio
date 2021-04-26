@@ -92,14 +92,14 @@ let resumeData = {
       {
         "name":"Weather Dashboard",
         "description":"Web App allowing to check the weather by uding external weather api",
-        "imgurl":"/images/portfolio/weatherApp.png",
+        "imgurl":"./images/portfolio/weatherApp.png",
         "githubUrl": "https://github.com/NataliaSozontova/homework6Weather",
         "deployedUrl": "https://nataliasozontova.github.io/homework6Weather/"
       },
       {
         "name":"Burger",
         "description":"Web App to add burgers to the list and move to another list",
-        "imgurl":"/images/portfolio/burgerApp.png",
+        "imgurl":"./images/portfolio/burgerApp.png",
         "githubUrl": "https://github.com/NataliaSozontova/burger",
         "deployedUrl": "https://boiling-plains-38005.herokuapp.com/"
       },

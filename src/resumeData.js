@@ -106,28 +106,28 @@ let resumeData = {
       {
         "name":"Fitness Tracker",
         "description":"Web App allowing to add and save your exercise progress",  
-        "imgurl":"/images/fitnessApp.png",
+        "imgurl":"./images/fitnessApp.png",
         "githubUrl": "https://github.com/NataliaSozontova/workoutTracker",
         "deployedUrl": "https://still-ridge-64273.herokuapp.com/"
       },
       {
         "name":"Travel Guide (Project 1)",
         "description":"Web App for travel in Dubai, can be adjust to any other destination",
-        "imgurl":"/images/portfolio/travelGuide.png",
+        "imgurl":"./images/travelGuide.png",
         "githubUrl": "https://github.com/NataliaSozontova/group_project",
         "deployedUrl": "https://nataliasozontova.github.io/group_project/"
       },
       {
         "name":"Selling App (Project 2)",
         "description":"Web App allowing seller to create account and post items and buyer to view items for sale",  
-        "imgurl":"/images/portfolio/sellApp.png",
+        "imgurl":"./images/sellApp.png",
         "githubUrl": "https://github.com/NataliaSozontova/Team_Hulk_Group_Project_2",
         "deployedUrl": "https://vast-reaches-08581.herokuapp.com/"
       },
       {
         "name":"Employee Directory",
         "description":"React Web application. Allowing user to view entire employee directory with their information, search and sort employees by name",  
-        "imgurl":"/images/portfolio/employeeDirectory.png",
+        "imgurl":"./images/employeeDirectory.png",
         "githubUrl": "https://github.com/NataliaSozontova/Employee-Directory",
         "deployedUrl": "https://nataliasozontova.github.io/Employee-Directory/"
       }

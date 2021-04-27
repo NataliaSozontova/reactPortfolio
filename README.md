@@ -3,7 +3,7 @@
 ## Description
 Hi! My name is Natalia Sozontova and this is repository for my React Portfolio website.
 
-![Screenshot](/public/assets/images/app.png)
+![Screenshot](/public/images/homePage.png)
 
 ## Table of Contents
 * [Features](#features)

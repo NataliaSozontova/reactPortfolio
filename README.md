@@ -32,7 +32,7 @@ Hi! My name is Natalia Sozontova and this is repository for my React Portfolio w
 
 * CONTACT
 
-![Screenshot](/public/images/contactPage.png)
+![Screenshot](public/images/contactPage.png)
 
 
 ## Installation 

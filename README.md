@@ -37,7 +37,7 @@ Hi! My name is Natalia Sozontova and this is repository for my React Portfolio w
 
 ## Installation 
 * Clone this repository.
-https://github.com/NataliaSozontova/reactPortfolio/tree/gh-pages
+https://github.com/NataliaSozontova/reactPortfolio/tree/main
 
 * Open application live URL in your browser.
 https://nataliasozontova.github.io/reactPortfolio/#about
